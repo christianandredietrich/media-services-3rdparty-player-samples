@@ -1,7 +1,7 @@
 # Contributing to Media Services 3rd Party Player Samples
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
+Contributor License Agreement (CLA) declaring that you have the right to grant us
 the rights to use your contribution. For details, visit <https://cla.microsoft.com>.
 
 When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
@@ -47,7 +47,7 @@ a proposal for your work first, to be sure that we can use it.
 
 Before you submit an issue, search the archive, maybe your question was already answered.
 
-If your issue appears to be a bug, and hasn't been reported, open a new issue.
+If your issue appears to be a bug and hasn't been reported, open a new issue.
 Help us to maximize the effort we can spend fixing issues and adding new
 features, by not reporting duplicate issues.  Providing the following information will increase the
 chances of your issue being dealt with quickly:
@@ -56,7 +56,7 @@ chances of your issue being dealt with quickly:
 - **Version** - what version is affected (e.g. 0.1.2)
 - **Motivation for or Use Case** - explain what are you trying to do and why the current behavior is a bug for you
 - **Browsers and Operating System** - is this a problem with all browsers?
-- **Reproduce the Error** - provide a live example or a unambiguous set of steps
+- **Reproduce the Error** - provide a live example or an unambiguous set of steps
 - **Related Issues** - has a similar issue been reported before?
 - **Suggest a Fix** - if you can't fix the bug yourself, perhaps you can point to what might be
   causing the problem (line of code or commit)
